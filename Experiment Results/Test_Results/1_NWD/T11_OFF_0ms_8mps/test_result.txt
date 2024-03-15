@@ -1,0 +1,34 @@
+TEST STATE:
+Controller state: OFF
+Speed: 8 m/s
+Delay: 0 ms
+--------------------
+TIME AND SPEED:
+test time: 184.241 s
+Max speed: 8.219 m/s
+Average speed: 7.957 m/s
+--------------------
+STEERING ANGLES:
+Summed tele-operator steering angle: 142.357 rad
+Average tele-operator steering angle: 0.04 rad
+Median tele-operator steering angle: 0.016 rad
+Max tele-operator steering angle: 0.274 rad
+Steering angle threshold crossings: 12 rad
+--------------------
+LANE DEVIATION:
+Max lane deviation: 0.973 m
+Summed lane deviation: 1864.451 m
+Average lane deviation: 0.337 m
+Median lane deviation: 0.276 m
+--------------------
+HEADING ERROR:
+Max heading error: 0.69 rad
+Summed heading error: 361.938 rad
+Average heading error: 0.032 rad
+Median heading error: 0.001 rad
+--------------------
+LATERAL ACCELERATION:
+Max lateral acceleration: 6.434 m/s^2
+Summed lateral acceleration: 3839.754 m/s^2
+Average lateral acceleration: 0.51 m/s^2
+Median lateral acceleration: 0.128 m/s^2
